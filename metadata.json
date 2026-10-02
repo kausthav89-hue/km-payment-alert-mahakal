@@ -1,0 +1,6 @@
+{
+  "name": "Payment Alert",
+  "description": "Smart UPI payment soundbox and voice announcer with lockscreen alert overlay for PhonePe, GPay, and Paytm.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

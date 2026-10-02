@@ -1,0 +1,50 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="120dp"
+    android:height="120dp"
+    android:viewportWidth="120"
+    android:viewportHeight="120">
+
+    <!-- Outer Glow Circle -->
+    <path
+        android:fillColor="#151E293B"
+        android:pathData="M60,60m-58,0a58,58 0,1 1,116 0a58,58 0,1 1,-116 0" />
+
+    <!-- Speaker / Soundbox Base -->
+    <path
+        android:fillColor="#22C55E"
+        android:pathData="M35,42 L52,42 L72,25 L72,95 L52,78 L35,78 Z" />
+
+    <!-- Rupee Circle Badge -->
+    <path
+        android:fillColor="#0F172A"
+        android:pathData="M52,60m-14,0a14,14 0,1 1,28 0a14,14 0,1 1,-28 0" />
+
+    <!-- Rupee Symbol -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M48,53 L56,53 M48,56 L55,56 M48,53 L48,67 M52,56 C54.5,56 56,57.5 56,59 C56,61 54,62 51,62 L48,62 L56,67"
+        android:strokeColor="#38BDF8"
+        android:strokeWidth="1.5"
+        android:strokeLineCap="round" />
+
+    <!-- Soundwave 1 -->
+    <path
+        android:pathData="M80,45 C85,52 85,68 80,75"
+        android:strokeColor="#38BDF8"
+        android:strokeWidth="4"
+        android:strokeLineCap="round" />
+
+    <!-- Soundwave 2 -->
+    <path
+        android:pathData="M90,36 C98,48 98,72 90,84"
+        android:strokeColor="#22C55E"
+        android:strokeWidth="4"
+        android:strokeLineCap="round" />
+
+    <!-- Soundwave 3 -->
+    <path
+        android:pathData="M100,28 C112,44 112,76 100,92"
+        android:strokeColor="#A855F7"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round" />
+</vector>
